@@ -295,7 +295,7 @@ var wysihtml5ParserRules = {
         "input": {
             "remove": 1
         },
-        "table": {},
+        // "table": {},
         "keygen": {
             "remove": 1
         },
